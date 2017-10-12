@@ -1,0 +1,2 @@
+/home/dnarules/Downloads/Trinity_2.4/Trinity --seqType fq --left ./previoustranscriptomes/Anuj_SRR365042_1_paired_trimmed.fastq --right ./previoustranscriptomes/Anuj_SRR365042_2_paired_trimmed.fastq --CPU 18 --max_memory 50G --output ./previoustranscriptomes/SRR365042_Trinity
+/home/dnarules/Downloads/Trinity_2.4/Trinity --seqType fq --left ./previoustranscriptomes/Anuj_SRR1324964_1_paired_trimmed.fastq --right ./previoustranscriptomes/Anuj_SRR1324964_2_paired_trimmed.fastq --CPU 18 --max_memory 50G --output ./previoustranscriptomes/SRR1324964_Trinity
